@@ -69,7 +69,7 @@ Drawer por fora, abas no meio e o Stack dentro da aba Início.
 
 ![Aninhado](./prints/aninhado.png)
 
-## Desafio: modo "aninhado"
+## Sobre o desafio:
 
 Fiz o desafio opcional dos navegadores aninhados. Para ativar é só colocar `"aninhado"` na constante do `src/routes/index.jsx`:
 
